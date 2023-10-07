@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AR-Game/static/css/main.013e67d1.css",
+    "main.js": "/AR-Game/static/js/main.a5c5c4d3.js",
+    "index.html": "/AR-Game/index.html",
+    "main.013e67d1.css.map": "/AR-Game/static/css/main.013e67d1.css.map",
+    "main.a5c5c4d3.js.map": "/AR-Game/static/js/main.a5c5c4d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.013e67d1.css",
+    "static/js/main.a5c5c4d3.js"
+  ]
+}
